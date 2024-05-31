@@ -58,4 +58,4 @@
 - nhớ xử lí conflict add commit and push lên git trước 
 
 # git diff: so sánh sự thay đổi khác biệt giữa các nguồn git cho biết mình vừa thêm gì, có thể xem 
-# git stash: 
+# git stash: check xem đã clear hết chưa, mõio lần git reset lại thì nên dùng để check 

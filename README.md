@@ -24,3 +24,10 @@
 
 * 2 câu lệnh git revert và git reset đều backup code của commit bạn muốn nhưng reset là quay lại commit còn git revert là tạo 1 commit mới copy code từ commit mà bạn đang muốn
 * nên dùng reset và reflog và git reset --hard 
+
+# git amend: dùng để sửa đổi commit cuối cùng 
+- link:  https://nhobethoi.com/git-commit-amend-thay-doi-commit-cuoi-cung/ 
+- bạn đã sửa đổi và push lên 
+- vì đây là git commit --amend -m "them"
+- nên sửa file rồi git add + git commit (như kia) + git push 
+

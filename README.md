@@ -50,3 +50,9 @@
 
 # git cherry-pick: 
 - 
+- giả sử bạn có 1 nhánh feature có các commit : A-B-C 
+- và có người cần xem bạn chỉ muốn lấy C để push
+- bạn check out nhánh mới
+- git cherry-pick C
+- và nhánh đấy sẽ có toàn code của commit treen
+- nhớ xử lí conflict add commit and push lên git trước 

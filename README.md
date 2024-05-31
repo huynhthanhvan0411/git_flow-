@@ -18,3 +18,9 @@
 # git revert: k nên dùng , revert phát là quay về commit trước và k có cávch back up commit vừa rồi 
 
 # git reset: 
+- câu lệnh quay về 1 commit bất kì đó là git reset hash_commit
+- để tìm gõ git reflog thì sẽ ra tất cả 
+- để từ đó quay lại dùng git reset --hard hash-commit 
+
+* 2 câu lệnh git revert và git reset đều backup code của commit bạn muốn nhưng reset là quay lại commit còn git revert là tạo 1 commit mới copy code từ commit mà bạn đang muốn
+* nên dùng reset và reflog và git reset --hard 

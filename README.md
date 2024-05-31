@@ -35,4 +35,13 @@
 - git push origin origin --force 
 - chỉ cần 3 bước nay thay vì tạo commit mới thì gói vào commit gần nhất 
 
+# git rebase: 
+- nếu như git merge và để gộp nhánh này vào nhánh khác 
+- thì git rebase dùng gộp commit nhánh này vào commit nhánh khác 
+- nếu 1 câu 'git merge A' thì gộp toàn bộ code của nhánh A và thi
+- ta có branch main có commit: A -B-C-E-F
+- branch A có : A-B-C-4-5
+- 'git rebase A': A-B-C-4-5-E-F 
+- đơn giản là gộp commit vào 
+- thích hợp cho việc đang ở các branch feature add vào branch develop 
 

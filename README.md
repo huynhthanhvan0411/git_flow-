@@ -58,3 +58,4 @@
 - nhớ xử lí conflict add commit and push lên git trước 
 
 # git diff: so sánh sự thay đổi khác biệt giữa các nguồn git cho biết mình vừa thêm gì, có thể xem 
+# git stash: 

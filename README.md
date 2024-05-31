@@ -56,3 +56,5 @@
 - git cherry-pick C
 - và nhánh đấy sẽ có toàn code của commit treen
 - nhớ xử lí conflict add commit and push lên git trước 
+
+# git diff: so sánh sự thay đổi khác biệt giữa các nguồn git cho biết mình vừa thêm gì, có thể xem 

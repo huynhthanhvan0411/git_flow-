@@ -47,3 +47,6 @@
 - first: git checkout A
 - because we add commit A to main so we need stand A : git rebase main 
 - done 
+
+# git cherry-pick: 
+- 

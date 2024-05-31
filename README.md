@@ -14,3 +14,5 @@
 
  # git ignore: sẽ có những file bạn k muốnd dẩy lên vậy hãy file đó vào file .gitignore 
  # ssh key: cần tạo ssh key để đăng nhập an toàn hơn 
+
+# hello anh em 100+ 

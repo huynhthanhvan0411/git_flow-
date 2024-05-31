@@ -44,4 +44,6 @@
 - 'git rebase A': A-B-C-4-5-E-F 
 - đơn giản là gộp commit vào 
 - thích hợp cho việc đang ở các branch feature add vào branch develop 
-
+- first: git checkout A
+- because we add commit A to main so we need stand A : git rebase main 
+- done 

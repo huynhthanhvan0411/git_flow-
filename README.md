@@ -59,3 +59,5 @@
 
 # git diff: so sánh sự thay đổi khác biệt giữa các nguồn git cho biết mình vừa thêm gì, có thể xem 
 # git stash: check xem đã clear hết chưa, mõio lần git reset lại thì nên dùng để check 
+
+# git tag: dùng để đánh dấu 1 commit nào đó, dùng khi đánh dấu version release tại mốc

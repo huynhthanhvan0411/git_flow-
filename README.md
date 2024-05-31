@@ -29,5 +29,10 @@
 - link:  https://nhobethoi.com/git-commit-amend-thay-doi-commit-cuoi-cung/ 
 - bạn đã sửa đổi và push lên 
 - vì đây là git commit --amend -m "them"
-- nên sửa file rồi git add + git commit (như kia) + git push 
+- nên sửa rồi thêm như cácv bước sau 
+- git add . 
+- git commit --amend ( thêm commit trước đó)
+- git push origin origin --force 
+- chỉ cần 3 bước nay thay vì tạo commit mới thì gói vào commit gần nhất 
+
 
